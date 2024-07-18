@@ -1,19 +1,25 @@
-## 비사이드 포텐데이 팀 알파고 👋
+# 비사이드 포텐데이 팀 알파고 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+## 네이버 클로바를 이용한 자동 생성 이메일 웹/앱 프로젝트
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-네이버 클로바를 이용한 자동 생성 이메일 웹/앱 프로젝트
 
-기획 - 이태림
-디자인 - 구지원
-프론트 - 백승범 최기영
-백엔드 - 이도훈 정수현
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>기획 : 이태림 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>디자인 : 구지원</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE: 백승범</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE : 최기영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE : 이도훈</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE : 정수현</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
 
+## 사용 기술 스택
+
+### ✔️Frond-end
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"><img src="https://img.shields.io/badge/chakraui-319795?style=for-the-badge&logo=chakraui&logoColor=white"><img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=purple"><img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+### ✔️Back-end
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">
